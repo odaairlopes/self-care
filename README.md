@@ -6,3 +6,5 @@ O objetivo desse projeto é gestão de hábitos, onde o usuário de cadastra e c
 
 
 Foram utilizados React, para criar e escrever o projeto, e Styled Components com Material UI para a estilização do mesmo.
+
+O link para o projeto upado no Vercel está aqui: https://self-care.vercel.app
