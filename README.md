@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-Esse projeto foi desenvolvido para o Capstone do Q2 da Kenzie Academy Brasil. Os integrantes foram: Douglas Filipe, Eduardo Pereira, Estevan Martins, Odair Lopes e Renato Barbosa.
+Esse projeto foi desenvolvido para uma entrega de trabalho da Kenzie Academy Brasil. Os integrantes foram: Douglas Filipe, Eduardo Pereira, Estevan Martins, Odair Lopes e Renato Barbosa.
 
 O objetivo desse projeto é gestão de hábitos, onde o usuário de cadastra e consegue gerir seus hábitos e participar de grupos com outras pessoas com a mesma categoria de hábitos e metas.
 
